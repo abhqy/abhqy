@@ -1,6 +1,6 @@
-### Hello World! 👋
+# About Me
+- I am an undergraduate student currently studying at the University of Waterloo.
 
-# Test
 
 Here are some ideas to get you started:
 
