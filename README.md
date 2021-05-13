@@ -7,9 +7,9 @@
 
 ## Some interesting projects I've work on
 
-# twitter-clone
+### twitter-clone
   - Full stack twitter-clone application that allows users to communicate with each other through messages that can be seen by all users.
   - User authentication information and posts are saved in a cloud-based database using Firebase.
   - Front end website built using HTML5, CSS3, React.js, and Material UI.
   - 
-# Pong Simulator
+### Pong Simulator
