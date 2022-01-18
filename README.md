@@ -21,6 +21,6 @@
 
 ### 🏫 course-buddy
   - Web application for Computer Science Students in the University of Waterloo to select university courses throughout their education
-  - Displaysed courses that have been hard-coded into the program data
+  - Displayed courses that have been hard-coded into the program data
   - Stored user authentication information and course selections in Firebase realtime database
   - Built front-end using Material UI
