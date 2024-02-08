@@ -1,10 +1,10 @@
 ### Check out my website at [amenon.me](https://amenon.me)!
 
 ## About Me
-- 🎓 I'm a third year undergraduate CS student studying at the University of Waterloo
-- 💻 I'm interested in learning about back-end infrastructures
+- 🎓 I'm a fourth year undergraduate CS student studying at the University of Waterloo
+- 💻 I'm interested in learning about UI/UX, frontend development, infrastructure, and networks
 - 🌱 I’m currently learning about AWS and Kubernetes
-- 👯 I’m looking to collaborate on full-stack projects and back-end development
+- 👯 I’m looking to collaborate on full-stack projects and infrastructure engineering
 - 📫 Contact me via my email, abhaymenon7@gmail.com
 
 ## Some interesting projects I've worked on...
